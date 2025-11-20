@@ -20,7 +20,7 @@ export enum DistributionType {
   Skewed = 'Skewed Unimodal',
   Bimodal = 'Bimodal (Double Well)',
   HeavyTailed = 'Heavy Tailed (Student-t)',
-  Beta = 'Beta Distribution',
+  Beta = 'Beta (Binomial Posterior)',
   Gamma = 'Gamma Distribution'
 }
 
