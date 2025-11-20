@@ -1,0 +1,5 @@
+{
+  "name": "Laplace Approx Visualizer",
+  "description": "An interactive educational animation demonstrating how Laplace Approximation fits a Gaussian distribution to a complex posterior by matching the mode and curvature.",
+  "requestFramePermissions": []
+}
